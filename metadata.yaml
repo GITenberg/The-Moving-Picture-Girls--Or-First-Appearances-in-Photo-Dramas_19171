@@ -1,0 +1,40 @@
+_repo: The-Moving-Picture-Girls--Or-First-Appearances-in-Photo-Dramas_19171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: Oh, isn't it just splendid, Ruth? Don't you feel like singing and dancing?
+  Come on, let's have a two-step! I'll whistle! "Alice! How can you be so - so boisterous?"
+  expostulated the taller of two girls, who stood in the middle of their small and
+  rather shabby parlor. "Boisterous! Weren't you going to say - rude?" laughingly
+  asked the one who had first spoken. "Come, now, 'fess up! Weren't you?" and the
+  shorter of the twain, a girl rather plump and pretty, with merry brown eyes, put
+  her arm about the waist of her sister and endeavored to lead her through the maze
+  of chairs in the whirl of a dance, whistling, meanwhile, a joyous strain from one
+  of the latest Broadway successes. "Oh, Alice!" came in rather fretful tones. "I
+  don't -" "You don't know what to make of me? That's it; isn't it, sister mine? Oh,
+  I can read you like a book. But, Ruth, why aren't you jolly once in a while? Why
+  always that 'maiden all forlorn' look on your face? Why that far-away, distant look
+  in your eyes - 'Anne, Sister Anne, dost see anyone approaching?' Talk about Bluebeard!
+  Come on, do one turn with me. I'm learning the one-step, you know, and it's lovely!
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Motion pictures -- Production and direction -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: The Moving Picture Girls; Or, First Appearances in Photo Dramas
+url: http://www.gutenberg.org/ebooks/19171
